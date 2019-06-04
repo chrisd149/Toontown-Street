@@ -9,6 +9,8 @@ First, to edit this file, you must have the Toontown Level Editor.  If you want 
 
 ## License
 
+This project is licensed under the Unicense, which makes this file fall under the public domain, free to use, distribute, modify to your desire.
+
 **This Panda3D game and/or the author(s) are not affiliated with *The Walt Disney Company* and/or the *Disney Interactive Media Group*(collectively referred to as *"Disney"*).  All textures/models used in this program are not mine, and are allowed to be publicly used and distributed, with the exceptition for profit, which isn't allowed at all.**
 
 You don't have to cite me in any work you include this file in, as long as you edit it to your needs.
