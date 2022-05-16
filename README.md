@@ -1,35 +1,27 @@
 # Toontown Street
 
+This is a DNA file of a Toontown Street using Toontown Central assets.  This is for anyone who needs a street that is mostly done (there are some collision issues and other stuff that I need to fix, so feel free to bother me if I haven't fixed them yet!)
 
-This is a DNA file of a Toontown Street.  This is for anyone who needs a street that is about 95% done (You can pick the names of buildings, billboards, and add addtional props.)  
+## How to modify
 
-## How to use
-
-First, to edit this file, you must have the Toontown Level Editor.  If you want to just directly import this into Panda3D and edit it there, that can work as well, but the Toontown Level Editor is far more simpler and easier to use.  
+To edit this file, you must have a level editor, such as the [Open Level Editor](https://github.com/OpenToontownTools/OpenLevelEditor). 
 
 ## Real world uses
 
 This project is currently used in:
 
-* Tooniversal Studios - As a street from Toontown Central and the Toon Estate.
+* Tooniversal Studios - As a street from the Toon Estates.
 
 ## License
 
 This project is licensed under the Unicense, which makes this file fall under the public domain, free to use, distribute, modify to your desire.
 
-**This Panda3D game and/or the author(s) are not affiliated with *The Walt Disney Company* and/or the *Disney Interactive Media Group*(collectively referred to as *"Disney"*).  All textures/models used in this program are not mine, and are allowed to be publicly used and distributed, with the exceptition for profit, which isn't allowed at all.**
-
-You don't have to cite me in any work you include this file in, as long as you edit it to your needs.
+**Note**: You don't have to cite me in any work you include this street in, as long as you edit it to your needs.
 
 ## Contact
 
-*	GitHub UserName: **@chrisd149**
-
-* Email: **christianmigueldiaz@gmail.com**
-	* Active Hours M-F: 2pm - 9pm EST
-	* Active Hours Weekend: 11am - 1am EST (Some of the time im availiable to 4am on the weekends)
-
-<h4>All questions and inquiries must be related to the project in some way, unrelated messages will be ignored</h4>
+* Email: `christianmigueldiaz@gmail.com`
+* Discord: `chrisd149#7640`
 
 ## Images
 
