@@ -1,22 +1,21 @@
 # Toontown Street
 
-This is a DNA file of a Toontown Street using Toontown Central assets.  This is for anyone who needs a street that is mostly done (there are some collision issues and other stuff that I need to fix, so feel free to bother me if I haven't fixed them yet!)
+This is a DNA file of a Toontown Street using Toontown Central assets.  This is for anyone who needs a street that is mostly complete, with building names and suit paths not setup for better customization.
+
+The original intention for this street was to serve as a test area for a Toontown minigame I was working on back in early 2019. Said minigame never came to light, so this street serves as a template street for anyone to use.
 
 ## How to modify
 
-To edit this file, you must have a level editor, such as the [Open Level Editor](https://github.com/OpenToontownTools/OpenLevelEditor). 
+To edit this file, you must have a level editor, such as the [Open Level Editor](https://github.com/OpenToontownTools/OpenLevelEditor). Note: As of this time, it appears OTL can't open the street due to errors, however, a copy of the editor used by Disney opens with no issues.
 
 ## Real world uses
+*Contact me if you want to be credited here - I'd love to see any implemenations of this street!* 
 
-This project is currently used in:
-
-* Tooniversal Studios - As a street from the Toon Estates.
+- An early (buggy) version of this street is currently in use in Tooniversal Studios, as a street from the Toon Estates.
 
 ## License
 
-This project is licensed under the Unicense, which makes this file fall under the public domain, free to use, distribute, modify to your desire.
-
-**Note**: You don't have to cite me in any work you include this street in, as long as you edit it to your needs.
+This project is licensed under the Unicense, which makes this file fall under the public domain, free to use, distribute, and modify to your heart's desire. Just make sure to have fun!
 
 ## Contact
 
@@ -25,14 +24,8 @@ This project is licensed under the Unicense, which makes this file fall under th
 
 ## Images
 
-![image](https://user-images.githubusercontent.com/48182689/56863572-ff853e80-6985-11e9-9f44-fa92d4e14d74.png)
-<h6>Image 1</h6>
+![Screenshot 2022-09-18 221728](https://user-images.githubusercontent.com/48182689/190940776-c2018733-1f05-402d-a078-8141345e904a.png)
 
-![image](https://user-images.githubusercontent.com/48182689/56863576-0b710080-6986-11e9-8ff9-976e89b88a25.png)
-<h6>Image 2</h6>
+![Screenshot 2022-09-18 221710](https://user-images.githubusercontent.com/48182689/190940792-e9a303e8-d3b9-418e-8f14-3389742c6ad6.png)
 
-![image](https://user-images.githubusercontent.com/48182689/56863579-16c42c00-6986-11e9-8136-688b6affe2d9.png)
-<h6>Image 3</h6>
 
-![image](https://user-images.githubusercontent.com/48182689/56863582-1f1c6700-6986-11e9-87d1-d487d6ce1ce6.png)
-<h6>Image 4</h6>
